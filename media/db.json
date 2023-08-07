@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Dr. Rickey O'Hara",
+      "id": 2
+    },
+    {
+      "name": "Jaime Kassulke",
+      "id": 3
+    },
+    {
+      "name": "Wesley Gerlach",
+      "id": 8
+    },
+    {
+      "name": "Marlene Lindgren",
+      "id": 9
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
