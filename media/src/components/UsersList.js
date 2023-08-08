@@ -9,7 +9,7 @@ import UsersListItem from "./UsersListItem";
 function UsersList() {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] =
     useThunk(fetchUsers);
-  const [doCreateUser, isCreatingUser, creatingUserError] = useThunk(addUser);
+  const [doCreateUser, isCreatingUser] = useThunk(addUser);
   const { data } = useSelector((state) => {
     return state.users;
   });

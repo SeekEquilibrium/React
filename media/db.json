@@ -21,6 +21,33 @@
       "id": 9
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handmade Concrete Shirt",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Refined Metal Pizza",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Wooden Computer",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6233701442650112",
+      "id": 2
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8393040433512448",
+      "id": 3
+    }
+  ]
 }
